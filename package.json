@@ -1,0 +1,14 @@
+{
+  "name": "MyPortfolio",
+  "version": "1.0.0",
+  "description": "Hello and Welcome to MyPortfolio\r If you have any questions just find me on my social Media Platforms as indicated on my website\r You can also reach me at ajangaivy@gmail.com\r Nice to meet you",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
